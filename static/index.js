@@ -21,7 +21,6 @@ const api = async () => {
       i++;
     });
     str += html;
-    console.log(str);
     big.innerHTML = str;
   } catch {
     (e) => {
