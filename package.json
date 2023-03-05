@@ -4,8 +4,13 @@
   "description": "intern project",
   "main": "app.js",
   "scripts": {
+<<<<<<< HEAD
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js"
+=======
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+>>>>>>> fa4f09d912875d6787b260d3c31e4a0ca291455e
   },
   "author": "shashwat",
   "license": "ISC",
